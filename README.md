@@ -444,3 +444,4 @@ if (mDeleteDstRect.contains(x, y)) {// 删除模式
 ```
 RectUtil.scaleRect(mHelpBoxRect, scaleW,scaleH);//自定义缩放
 ```
+修改后的代码 https://download.csdn.net/download/qq_26075861/10768081
